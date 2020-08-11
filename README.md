@@ -19,3 +19,5 @@ Abra outro terminal, entre no diretório /web e execute:
 e
 
 `$ npm start`
+
+Após isso a aplicação será iniciada!
