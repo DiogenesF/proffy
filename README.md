@@ -13,7 +13,7 @@ e
 
 `$ npm start`
 
-Abra outro terminal, entre no diretório web e execute:
+Abra outro terminal, entre no diretório /web e execute:
 
 `$ npm install`
 e
